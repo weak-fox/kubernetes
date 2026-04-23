@@ -1,0 +1,17 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+options:
+  no_parent_owners: true
+
+approvers:
+  - sttts
+  - roycaihw
+  - liggitt
+  - api-approvers
+reviewers:
+  - sttts
+  - roycaihw
+  - liggitt
+labels:
+  - sig/api-machinery
+  - area/code-generation
